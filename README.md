@@ -1,5 +1,5 @@
 # roboticsapplications
-# 🤖 Robotics Applications Course
+# Robotics Applications Course
 
 A hands-on course introducing robotics software, hardware, and reinforcement learning using **ROS 2**, **TurtleBot**, and **simulation environments**. Students progress from fundamental concepts to practical robot applications and advanced reinforcement learning for robotics.
 
