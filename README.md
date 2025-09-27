@@ -4,6 +4,21 @@ A hands-on course introducing robotics software, hardware, and reinforcement lea
 
 ---
 
+## Who is this course for?
+
+This course is designed for **undergraduate and graduate college students** who want to build strong foundations in robotics and gain practical experience with real-world applications.
+
+It is especially suitable for students who:
+- Are pursuing degrees in **Computer Science, Electrical Engineering, Mechanical Engineering, Mechatronics, or related disciplines**.  
+- Have a basic background in **programming (Python/C++), Linux systems, and mathematics (linear algebra, probability, and control basics)**.  
+- Want to **bridge the gap between theory and practice** by working on hands-on robotics projects using **ROS 2, TurtleBot, perception systems, and reinforcement learning**.  
+- Are considering careers in **robotics research, autonomous systems, embedded systems, AI for robotics, or industrial automation**.  
+
+The course is structured to be **accessible to motivated college students without prior robotics experience**, while still providing depth and challenges for those who already have some exposure.  
+
+By the end of this course, students will have the skills to **design, implement, and test complete robotics applications**, preparing them for advanced study, research, or industry roles.
+
+
 ## Prerequisites
 
 Before starting, you should be familiar with:
